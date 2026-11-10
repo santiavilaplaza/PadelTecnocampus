@@ -1,0 +1,9 @@
+# Archivos auxiliares de macOS
+.DS_Store
+**/.DS_Store
+._*
+**/._*
+
+# Archivos temporales
+*.swp
+*~
